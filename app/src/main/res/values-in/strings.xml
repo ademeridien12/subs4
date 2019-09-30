@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Film Info</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Acara TV</string>
+    <string name="release">Rilis</string>
+    <string name="language">Bahasa</string>
+    <string name="select_language">Pilih Bahasa</string>
+    <string name="vote_average">Skor Pengguna</string>
+    <string name="runtime">Durasi</string>
+    <string name="genre">Genre</string>
+    <string name="description">Deskripsi</string>
+    <string name="budget">Biaya</string>
+    <string name="revenue">Pendapatan</string>
+    <string name="user_score">Skor pengguna</string>
+    <string name="status">Status</string>
+    <string name="overview">Rangkuman Cerita</string>
+    <string name="apikey_warning">API KEY anda tidak ditemukan</string>
+    <string name="first_release">Tayang Perdana</string>
+    <string name="btm_favorite">Favorit</string>
+    <string name="btm_tvshow">Daftar TV Show</string>
+    <string name="btm_movie">Daftar Film</string>
+    <string name="success_remove_favorite">Berhasil dihapus dari favorit</string>
+    <string name="already_remove_favorite">Data sudah tidak ada di favorit</string>
+    <string name="already_on_favorite">Data sudah ada di favorit</string>
+    <string name="add_to_favorite">Ditambahkan ke favorit</string>
+    <string name="favorite_movie">Film Favorit</string>
+    <string name="favorite_tvshow">Acara TV Favorit</string>
+</resources>
